@@ -1,0 +1,28 @@
+<html>
+<head>
+<title><b>My Website</b></title>
+</head>
+<body>
+<body bgcolor="royal blue"> margin=2>
+
+<center>
+<p style=background-color: dark blue; font size: 29; My Website </p>
+<img src="20200310_133341.jpg" width="500" height="500"></img>
+<br>
+<p style="text-align center; font size: 150">
+<a href="Home.html">HOME</a>
+<a href="Pictures.html">PICTURES</a>
+<a href="Friends.html">FRIENDS</a>
+
+<center>
+<h1>First name: Charie</h1>
+<h1>Middle name: Natad</h1>
+<h1>Last name: Sangrador</h1>
+<h1>Birth date: June 28, 1994</h1>
+<h1>Address: Purok 3A, Consuelo,Bunawan ADS
+
+</Center>
+</body>
+
+
+</html>
